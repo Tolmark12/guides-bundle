@@ -8,7 +8,7 @@
 	$0&lt;!-- To add sections :: sub --&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Guide Section</string>
+	<string>Body - Section</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

@@ -10,7 +10,7 @@
 	&lt;/ul&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Steps List</string>
+	<string>Steps - TOC</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

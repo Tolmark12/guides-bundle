@@ -29,7 +29,7 @@
 
 {% endblock %}</string>
 	<key>name</key>
-	<string>Guide</string>
+	<string>New Guide</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

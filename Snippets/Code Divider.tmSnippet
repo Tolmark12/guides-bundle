@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;div class="sprite dot-divide"&gt;&lt;/div&gt;</string>
 	<key>name</key>
-	<string>Code Divider</string>
+	<string>Snippet - Code Divider</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

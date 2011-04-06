@@ -9,7 +9,7 @@
 	&lt;li&gt;&lt;span class="guides-sprite tag"&gt;&lt;/span&gt;&lt;a href="#link"&gt;Sample Login Function&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</string>
 	<key>name</key>
-	<string>Rightnav Section</string>
+	<string>TOC - Section</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

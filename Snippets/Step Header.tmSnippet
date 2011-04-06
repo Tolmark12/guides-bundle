@@ -7,11 +7,11 @@
 	&lt;p class="primary-step"&gt;&lt;span class="guides-sprite step"&gt;Step ${1:1}&lt;/span&gt;${2:Title}&lt;/p&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Step Header</string>
+	<string>Steps - Section</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>stepheader</string>
+	<string>steph</string>
 	<key>uuid</key>
 	<string>01FCE9FA-703B-40E0-9EFF-62E24451FA20</string>
 </dict>

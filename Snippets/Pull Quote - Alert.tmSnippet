@@ -8,7 +8,7 @@
 	&lt;p&gt;$0&lt;/p&gt;
 &lt;/div&gt;</string>
 	<key>name</key>
-	<string>Pull Quote - Alert</string>
+	<string>Snippet - Alert</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

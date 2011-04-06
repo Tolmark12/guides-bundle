@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;li&gt;&lt;span class="guides-sprite check"&gt;&lt;/span&gt;$1&lt;/li&gt;$0</string>
 	<key>name</key>
-	<string>Summary Check</string>
+	<string>Check Mark</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

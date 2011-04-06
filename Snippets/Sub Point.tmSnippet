@@ -6,7 +6,7 @@
 	<string>&lt;h4 id="${2:${1/(\s|\b)(?&lt;=_|)([A-Za-z0-9]+)/-\L$2\L$3(?1:)/g}}"&gt;${1:Title}&lt;/h4&gt;
 &lt;p&gt;$0&lt;/p&gt;</string>
 	<key>name</key>
-	<string>Sub Point</string>
+	<string>Body - Sub Point</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

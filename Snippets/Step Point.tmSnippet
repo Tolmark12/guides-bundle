@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;li&gt;&lt;span class="guides-sprite step"&gt;$1&lt;/span&gt;&lt;a href="#$3"&gt;$2&lt;/a&gt;&lt;/li&gt;$0</string>
 	<key>name</key>
-	<string>Step Point</string>
+	<string>Steps - TOC point</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>

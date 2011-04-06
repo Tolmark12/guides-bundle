@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h4&gt;$1&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="#link"&gt;What is PagodaBox?&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span class="guides-sprite tag"&gt;&lt;/span&gt;&lt;a href="#link"&gt;Sample Login Function&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</string>
+	<key>name</key>
+	<string>Rightnav Section</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>navsect</string>
+	<key>uuid</key>
+	<string>4DEE860C-D731-4077-8BE1-117DFDD0AA0D</string>
+</dict>
+</plist>

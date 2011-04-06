@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h3 class="tag"&gt;&lt;span class="guides-sprite cap-notice"&gt;&lt;/span&gt;&lt;span class="horizontal-guides-sprite red"&gt;${1:Text Here}&lt;/span&gt;&lt;span class="guides-sprite red-end-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class="block red"&gt;
+	&lt;p&gt;$0&lt;/p&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Pull Quote - Alert</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>alert</string>
+	<key>uuid</key>
+	<string>B317DA71-7A2A-43CB-8FE5-143F4F935B8E</string>
+</dict>
+</plist>

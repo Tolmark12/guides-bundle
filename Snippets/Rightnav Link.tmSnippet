@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;li&gt;${1:&lt;span class="guides-sprite tag"&gt;&lt;/span&gt;}&lt;a href="${2:#link}"&gt;${3:Sample Login Function}&lt;/a&gt;&lt;/li&gt;$0</string>
+	<key>name</key>
+	<string>Rightnav Link</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>navli</string>
+	<key>uuid</key>
+	<string>343193BE-753F-4F7E-A546-E2B65766465D</string>
+</dict>
+</plist>

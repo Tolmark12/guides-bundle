@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% extends "layouts/guide.php" %}
+
+{% block content %}
+
+&lt;div class="right-col"&gt;
+	&lt;div class="vertical-guides-sprite table-contents"&gt;
+		&lt;span class="guides-sprite top-corner"&gt;&lt;/span&gt;
+		&lt;h3&gt;Table of Contents&lt;/h3&gt;
+		&lt;!-- To add navigation sections :: navsect --&gt;
+		&lt;span class="guides-sprite bottom-corner"&gt;&lt;/span&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="left-col"&gt;
+	&lt;h1&gt;${1:Page Title}&lt;/h1&gt;
+	&lt;p class="active"&gt;${2:Overview text...} After reading it, you should be familiar with:&lt;/p&gt;
+	&lt;ul class="checked"&gt;
+		$0&lt;!-- To add checked items :: check --&gt;
+	&lt;/ul&gt;
+	&lt;div class="line-divider"&gt;&lt;/div&gt;
+	$0&lt;!-- To add sections :: sect --&gt;
+&lt;/div&gt;
+
+
+{% endblock %}</string>
+	<key>name</key>
+	<string>Guide</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>guide</string>
+	<key>uuid</key>
+	<string>CF5BFF82-22CD-4547-A7DE-946D31AF80D7</string>
+</dict>
+</plist>

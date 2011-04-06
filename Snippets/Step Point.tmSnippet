@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;li&gt;&lt;span class="guides-sprite step"&gt;$1&lt;/span&gt;&lt;a href="#$3"&gt;$2&lt;/a&gt;&lt;/li&gt;$0</string>
+	<key>name</key>
+	<string>Step Point</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>stepli</string>
+	<key>uuid</key>
+	<string>D598C26A-2A4D-4C00-957F-FDCFC96A49A6</string>
+</dict>
+</plist>

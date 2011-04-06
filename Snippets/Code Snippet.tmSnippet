@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h3 class="tag"&gt;&lt;span class="guides-sprite cap"&gt;&lt;/span&gt;&lt;span class="horizontal-guides-sprite title"&gt;$1&lt;/span&gt;&lt;span class="horizontal-guides-sprite green"&gt;${2:Description}&lt;/span&gt;&lt;span class="guides-sprite green-end-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class="block grey code" id="default-box-config-settings"&gt;
+	&lt;script class='brush: ${3:${1/.*/\L$0/g}}' type='syntaxhighlighter'&gt;
+		&lt;![CDATA[
+			$0
+		]]&gt;
+	&lt;/script&gt;
+	${4:&lt;div class="extra"&gt;
+		${5:/.box}
+	&lt;/div&gt;}
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Code Snippet</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>code</string>
+	<key>uuid</key>
+	<string>B9C03B84-6EF9-4BE2-A53E-B03C97E667D3</string>
+</dict>
+</plist>

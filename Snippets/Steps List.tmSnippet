@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h3 class="right-tag"&gt;&lt;span class="horizontal-guides-sprite solid-green"&gt;Steps&lt;/span&gt;&lt;span class="guides-sprite green-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class="block grey steps"&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span class="guides-sprite step"&gt;1&lt;/span&gt;&lt;a href="#link"&gt;An Ordered Process in Pagoda Box Docs with a second line of text&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Steps List</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>steps</string>
+	<key>uuid</key>
+	<string>6DFA9AE9-9A1E-40D7-9BEB-12037CA40719</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h2&gt;$1&lt;/h2&gt;
+&lt;div class="justify"&gt;
+	$0&lt;!-- To add sections :: sub --&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Guide Section</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>sect</string>
+	<key>uuid</key>
+	<string>0065B200-CA90-4B8D-9B5B-C62CCAB9E718</string>
+</dict>
+</plist>

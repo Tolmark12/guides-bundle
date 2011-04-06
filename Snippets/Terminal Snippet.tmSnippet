@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;h3 class="tag"&gt;&lt;span class="guides-sprite cap"&gt;&lt;/span&gt;&lt;span class="horizontal-guides-sprite title"&gt;${1:Terminal}&lt;/span&gt;&lt;span class="horizontal-guides-sprite green"&gt;${2:Description}&lt;/span&gt;&lt;span class="guides-sprite end-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;div class="block black"&gt;
+	\$ ${3:Terminal Command Here}
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Terminal Snippet</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>term</string>
+	<key>uuid</key>
+	<string>061FC221-6E1F-4FB9-BDF6-233DD2321B09</string>
+</dict>
+</plist>

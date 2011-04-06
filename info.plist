@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Pagoda Guide</string>
+	<key>ordering</key>
+	<array>
+		<string>CF5BFF82-22CD-4547-A7DE-946D31AF80D7</string>
+		<string>B1A15B01-94B9-48DF-8A03-A02EEDD47480</string>
+		<string>8813E7E2-5CBF-4176-B6EC-B88C29173A0C</string>
+		<string>4DEE860C-D731-4077-8BE1-117DFDD0AA0D</string>
+		<string>343193BE-753F-4F7E-A546-E2B65766465D</string>
+		<string>0065B200-CA90-4B8D-9B5B-C62CCAB9E718</string>
+		<string>ACF63F54-C6B6-454D-8857-A0363C1C0A87</string>
+		<string>6DFA9AE9-9A1E-40D7-9BEB-12037CA40719</string>
+		<string>01FCE9FA-703B-40E0-9EFF-62E24451FA20</string>
+		<string>B9C03B84-6EF9-4BE2-A53E-B03C97E667D3</string>
+		<string>B317DA71-7A2A-43CB-8FE5-143F4F935B8E</string>
+		<string>061FC221-6E1F-4FB9-BDF6-233DD2321B09</string>
+		<string>DA2027DB-B03E-4F24-88EA-D087F6F66F12</string>
+		<string>B859CE26-2DF6-45DD-B1BF-D8C1C7EC156B</string>
+		<string>D598C26A-2A4D-4C00-957F-FDCFC96A49A6</string>
+	</array>
+	<key>uuid</key>
+	<string>719C6995-A4F4-44C0-8835-34FFEC62FEFB</string>
+</dict>
+</plist>

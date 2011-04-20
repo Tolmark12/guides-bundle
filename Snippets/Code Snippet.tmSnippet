@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;h3 class="tag"&gt;&lt;span class="guides-sprite cap"&gt;&lt;/span&gt;&lt;span class="horizontal-guides-sprite title"&gt;$1&lt;/span&gt;&lt;span class="horizontal-guides-sprite green"&gt;${2:Description}&lt;/span&gt;&lt;span class="guides-sprite green-end-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
+	<string>&lt;h3 class="tag"&gt;&lt;span class="guides-sprite cap"&gt;&lt;/span&gt;&lt;span class="horizontal-guides-sprite title"&gt;${1:YAML}&lt;/span&gt;&lt;span class="horizontal-guides-sprite green"&gt;${2:Description}&lt;/span&gt;&lt;span class="guides-sprite green-end-cap"&gt;&lt;/span&gt;&lt;/h3&gt;
 &lt;div class="block grey code" id="default-box-config-settings"&gt;
 	&lt;script class='brush: ${3:${1/.*/\L$0/g}}' type='syntaxhighlighter'&gt;
 		&lt;![CDATA[

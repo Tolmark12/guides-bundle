@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="create-right right-side"&gt;
+    &lt;div class="note framework"&gt;
+        &lt;h2&gt;$1&lt;/h2&gt;
+ 		&lt;h3 class="first"&gt;Important:&lt;/h3&gt;
+        &lt;p&gt;We are not adding the $1 framework's source files to your app. You will need to manually add them to your repo if you haven't already done so.&lt;/p&gt;
+ 		&lt;h3&gt;Help Us Get $1 Dialed In:&lt;/h3&gt;
+        &lt;p&gt;We've taken our best stab at configuring our environment for $1–but would love a $1 expert's input. View the config settings by clicking on &lt;i&gt;Box Config&lt;/i&gt; in your admin panel after your app launches. Any of these settings can be over-witten via your local &lt;a href="http://guides.pagodabox.com/getting-started/understanding-the-box-file"&gt;.box file&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Feel free to ping us with any suggestions : &lt;a href="beta@pagodabox.com"&gt;beta@pagodabox.com&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>.box File Guide (admin) Best Stab</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>box3</string>
+	<key>uuid</key>
+	<string>16E4FECA-6E77-4963-8A9D-7072F8773614</string>
+</dict>
+</plist>

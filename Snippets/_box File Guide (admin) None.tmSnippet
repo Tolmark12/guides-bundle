@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="create-right right-side"&gt;
+    &lt;div class="note framework"&gt;
+        &lt;h2&gt;$1&lt;/h2&gt;
+ 		&lt;h3 class="first"&gt;Important:&lt;/h3&gt;
+        &lt;p&gt;We are not adding the $1 framework's source files to your app. You will need to manually add them to your repo if you haven't already done so.&lt;/p&gt;
+ 		&lt;h3&gt;Help Us Get $1 Dialed In:&lt;/h3&gt;
+        &lt;p&gt;While in beta, we don't currently have a default &lt;a href="http://guides.pagodabox.com/getting-started/understanding-the-box-file"&gt;box config file&lt;/a&gt; for $1. If you know your way around $1, we'd love to work with you directly create a default config file. &lt;br/&gt;&lt;br/&gt;Please ping us at &lt;a href="beta@pagodabox.com"&gt;beta@pagodabox.com&lt;/a&gt;.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>.box File Guide (admin) None</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>box2</string>
+	<key>uuid</key>
+	<string>86541185-2A2D-4E37-B7BD-94A5D5C44AE6</string>
+</dict>
+</plist>
